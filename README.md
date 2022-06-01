@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a frontend software developer from St. Petersburg
+I am a lead frontend software developer. Currently I am living in Tbilisi, Georgia.
 
 - 🔭 Working on http://sravni.ru/
 - 🌱 Learning functional programming in depth
