@@ -2,7 +2,7 @@
 
 I am a lead frontend software developer. Currently I am living in Tbilisi, Georgia.
 
-- 🔭 Working on http://sravni.ru/
+- 🔭 Working on https://www.altium.com/
 - 🌱 Learning functional programming in depth
 
 ## Using
