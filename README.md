@@ -1,13 +1,12 @@
 # Hi there 👋
 
-I am a lead frontend software developer. Currently I am living in Tbilisi, Georgia.
+I am a senior frontend software developer. Currently I am living in Belgrade, Serbia.
 
 - 🔭 Working on https://www.altium.com/
 - 🌱 Learning functional programming in depth
 
 ## Using
 
-- Computer: MacBook Pro 2020
 - Hosting: Gitlab Pages
 - IDE: WebStorm
 - Code Theme: Darkula
@@ -17,6 +16,10 @@ I am a lead frontend software developer. Currently I am living in Tbilisi, Georg
 ## Expertise
 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<br />
+
+<img align="left" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<br />
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <br />
